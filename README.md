@@ -1,1 +1,3 @@
 # PowerBiProject
+Hi, My name is Achintya Ranjan and I am a pre-final student in IIT (ISM) Dhanbad.
+This project revolves around a comprehensive analysis of private market data provided by PitchBook, a company which provides readers with the best private market data. The primary objective is to assess and analyze the production and performance of the research team, culminating in a detailed write-up that synthesizes crucial insights. The analytical framework employed for this purpose integrates Power BI and Excel, demonstrating proficiency in crafting and compiling extensive data, research, and insights sourced from the provided data sheet.
